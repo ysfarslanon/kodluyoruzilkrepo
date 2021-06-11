@@ -1,6 +1,7 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde nir adet README dosyası, bir adet de index.html barındırıyor.
+[Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![](kodluyoruzIlkRepo.png)
 #Installation
 
 Öncelikle projeyi clonelayın.
@@ -13,8 +14,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-```cd kodluyoruzilkrepo ```
-```code .```
+```
+cd kodluyoruzilkrepo
+code .
+```
 
 #Contributing
 
