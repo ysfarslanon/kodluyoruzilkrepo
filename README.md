@@ -23,5 +23,5 @@ code .
 
 Pull requesler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-#Licence
+#Licence <br/>
 [MIT](https://choosealicense.com/licenses/mit/)
